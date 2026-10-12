@@ -9,7 +9,7 @@
 <footer class="footer"><span>eLat Demonlist · неофициальный проект сообщества Geometry Dash</span><span>Публичная версия · только просмотр</span></footer></main>
 <div id="modal" class="modal" role="dialog" aria-modal="true"><div class="modalbox"><div class="modalhead"><div><div class="eyebrow">LEVEL DETAILS</div><h2 id="modalTitle" style="margin:5px 0 8px"></h2></div><button class="close" id="closeModal">Закрыть ✕</button></div><div id="modalBody"></div></div></div>
 <script>
-const DATA = {"levels": [], "players": [], "impossible": []};
+const DATA = {"levels":[],"players":[],"impossible":[{"uid":"lmv5qi71s3vcm","name":"Holyclysm","creator":"eLat","rank":1,"id":"104","video":"https://youtu.be/gvNCQcPsimM","preview":"https://i9.ytimg.com/vi/gvNCQcPsimM/mqdefault.jpg?v=6acd4996&sqp=CKSStdYG&rs=AOn4CLB27Op1A92n2gMO9uieud6auGCmsw","description":"","records":[]},{"uid":"lmv5qb3iikpn8","name":"Onescapes","creator":"eLat","rank":2,"id":"105","video":"https://youtu.be/YLAekhBquww","preview":"https://i9.ytimg.com/vi/YLAekhBquww/mqdefault.jpg?v=6acd4848&sqp=CPiPtdYG&rs=AOn4CLC8SllOjSRZh6fS8JosYsryhmEY6A","description":"","records":[]}]};
 const $=s=>document.querySelector(s);let tab='demons',query='';
 function esc(v=''){return String(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
 function points(rank){return Math.max(10,Math.round(1000*Math.pow(.92,Math.max(0,rank-1))))}
