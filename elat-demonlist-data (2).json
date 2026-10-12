@@ -1,0 +1,342 @@
+{
+  "demon": [
+    {
+      "id": "d1",
+      "name": "Acu",
+      "rank": 1,
+      "creator": "neigefeu",
+      "verifier": "Nexus",
+      "levelId": "495",
+      "video": "",
+      "points": 12480,
+      "records": [
+        {
+          "player": "Nexus",
+          "percent": 100,
+          "proof": "Высокая"
+        },
+        {
+          "player": "eLat",
+          "percent": 76,
+          "proof": "Средняя"
+        }
+      ],
+      "proof": "Высокая",
+      "color": "red",
+      "notes": "Пример оформления записи."
+    },
+    {
+      "id": "d2",
+      "name": "Cataclysm",
+      "rank": 2,
+      "creator": "Ggboy",
+      "verifier": "kingbob",
+      "levelId": "31832",
+      "video": "",
+      "points": 11923,
+      "records": [
+        {
+          "player": "kingbob",
+          "percent": 100,
+          "proof": "Высокая"
+        }
+      ],
+      "proof": "Высокая",
+      "color": "blue",
+      "notes": ""
+    },
+    {
+      "id": "d3",
+      "name": "Bloodbath",
+      "rank": 3,
+      "creator": "Riot",
+      "verifier": "Riot",
+      "levelId": "",
+      "video": "",
+      "points": 11427,
+      "records": [
+        {
+          "player": "Riot",
+          "percent": 100,
+          "proof": "Высокая"
+        }
+      ],
+      "proof": "Высокая",
+      "color": "blue",
+      "notes": ""
+    },
+    {
+      "id": "d4",
+      "name": "Stalemate Redux",
+      "rank": 4,
+      "creator": "Aerial Gleam",
+      "verifier": "Exen",
+      "levelId": "",
+      "video": "",
+      "points": 10812,
+      "records": [
+        {
+          "player": "Exen",
+          "percent": 100,
+          "proof": "Средняя"
+        }
+      ],
+      "proof": "Средняя",
+      "color": "purple",
+      "notes": ""
+    },
+    {
+      "id": "d5",
+      "name": "Sakupen Circles",
+      "rank": 5,
+      "creator": "Noobas",
+      "verifier": "KrmaL",
+      "levelId": "",
+      "video": "",
+      "points": 10526,
+      "records": [
+        {
+          "player": "KrmaL",
+          "percent": 100,
+          "proof": "Высокая"
+        }
+      ],
+      "proof": "Высокая",
+      "color": "purple",
+      "notes": ""
+    },
+    {
+      "id": "d7",
+      "name": "Rupture",
+      "rank": 7,
+      "creator": "FunnyGame",
+      "verifier": "Wulzy",
+      "levelId": "",
+      "video": "",
+      "points": 9981,
+      "records": [
+        {
+          "player": "Wulzy",
+          "percent": 98,
+          "proof": "Средняя"
+        }
+      ],
+      "proof": "Средняя",
+      "color": "purple",
+      "notes": ""
+    },
+    {
+      "id": "d8",
+      "name": "The Golden",
+      "rank": 8,
+      "creator": "BoBoBoBoBo",
+      "verifier": "zOnex",
+      "levelId": "",
+      "video": "",
+      "points": 9742,
+      "records": [
+        {
+          "player": "zOnex",
+          "percent": 97,
+          "proof": "Средняя"
+        }
+      ],
+      "proof": "Средняя",
+      "color": "red",
+      "notes": ""
+    }
+  ],
+  "impossible": [
+    {
+      "id": "impossible-1791785455537",
+      "name": "Astra",
+      "rank": 1,
+      "creator": "eLat",
+      "levelId": "",
+      "video": "https://youtu.be/BOMri641g1k",
+      "proof": "Не проверено",
+      "notes": "eLat - 10%",
+      "color": "purple",
+      "points": 100,
+      "verifier": "eLat",
+      "records": [
+        {
+          "player": "10%",
+          "percent": null,
+          "proof": "Не проверено"
+        }
+      ]
+    },
+    {
+      "id": "i1",
+      "name": "Blade of Justice",
+      "rank": 2,
+      "creator": "Manix648",
+      "levelId": "810874",
+      "video": "",
+      "proof": "Средняя",
+      "notes": "Демо-запись. Укажи свои источники и рекорды.",
+      "color": "purple",
+      "points": 0,
+      "verifier": "Manix648",
+      "records": [
+        {
+          "player": "Player A",
+          "percent": 12,
+          "proof": "Средняя"
+        }
+      ]
+    },
+    {
+      "id": "i2",
+      "name": "Nine Circles",
+      "rank": 3,
+      "creator": "Zobros",
+      "levelId": "632356",
+      "video": "",
+      "proof": "Низкая",
+      "notes": "",
+      "color": "red",
+      "points": 0,
+      "verifier": "Zobros",
+      "records": [
+        {
+          "player": "Player B",
+          "percent": 9,
+          "proof": "Низкая"
+        }
+      ]
+    },
+    {
+      "id": "i3",
+      "name": "THE LOST LOVE",
+      "rank": 4,
+      "creator": "Woom",
+      "levelId": "765432",
+      "video": "",
+      "proof": "Средняя",
+      "notes": "",
+      "color": "blue",
+      "points": 0,
+      "verifier": "Woom",
+      "records": [
+        {
+          "player": "Player C",
+          "percent": 8,
+          "proof": "Средняя"
+        }
+      ]
+    },
+    {
+      "id": "i4",
+      "name": "Centipede",
+      "rank": 5,
+      "creator": "Trustа",
+      "levelId": "543210",
+      "video": "",
+      "proof": "Не проверено",
+      "notes": "",
+      "color": "blue",
+      "points": 0,
+      "verifier": "Trustа",
+      "records": [
+        {
+          "player": "Player D",
+          "percent": 7,
+          "proof": "Не проверено"
+        }
+      ]
+    },
+    {
+      "id": "i5",
+      "name": "Magma Bound",
+      "rank": 6,
+      "creator": "LazerBlitz",
+      "levelId": "372829",
+      "video": "",
+      "proof": "Низкая",
+      "notes": "",
+      "color": "blue",
+      "points": 0,
+      "verifier": "LazerBlitz",
+      "records": [
+        {
+          "player": "Player E",
+          "percent": 7,
+          "proof": "Низкая"
+        }
+      ]
+    }
+  ],
+  "players": [
+    {
+      "id": "p1",
+      "name": "Zylen",
+      "rank": 1,
+      "records": 124,
+      "completed": 150,
+      "points": 152340,
+      "levels": [
+        "Acu",
+        "Cataclysm",
+        "Bloodbath"
+      ]
+    },
+    {
+      "id": "p2",
+      "name": "NeoDash",
+      "rank": 2,
+      "records": 118,
+      "completed": 150,
+      "points": 138650,
+      "levels": [
+        "Acu",
+        "Bloodbath"
+      ]
+    },
+    {
+      "id": "p3",
+      "name": "xRexy",
+      "rank": 3,
+      "records": 110,
+      "completed": 150,
+      "points": 121420,
+      "levels": [
+        "Cataclysm"
+      ]
+    },
+    {
+      "id": "p4",
+      "name": "Lunar",
+      "rank": 4,
+      "records": 106,
+      "completed": 150,
+      "points": 112370,
+      "levels": [
+        "Acu"
+      ]
+    },
+    {
+      "id": "p5",
+      "name": "ItzMaxi",
+      "rank": 5,
+      "records": 98,
+      "completed": 150,
+      "points": 101520,
+      "levels": [
+        "Bloodbath"
+      ]
+    },
+    {
+      "id": "p6",
+      "name": "Krazy",
+      "rank": 6,
+      "records": 93,
+      "completed": 150,
+      "points": 94230,
+      "levels": [
+        "Cataclysm"
+      ]
+    }
+  ]
+}
